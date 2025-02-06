@@ -1,0 +1,12 @@
+Issue : Wi-Fi Not Connecting  
+Troubleshooting Steps:  
+1. Restart your router and modem by unplugging them for 30 seconds and plugging them back in.  
+2. Restart your computer or mobile device.  
+3. Check if other devices can connect to the Wi-Fi network.  
+4. Ensure that the Wi-Fi is enabled on your device.  
+5. Forget the network and reconnect by entering the correct password.  
+6. Move closer to the router to avoid signal issues.  
+7. Update the network drivers (for computers) or restart network settings.  
+8. If the problem persists, contact your internet service provider.
+
+```

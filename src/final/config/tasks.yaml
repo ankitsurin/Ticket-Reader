@@ -1,0 +1,24 @@
+analyst_task:
+  description: >
+    The Insight Analyst is an AI-powered diagnostic specialist designed to analyze a given {description} and identify key issue.
+  expected_output: >
+    Issue Detail : Give the only the issue. Do not give potential resons for the issue.
+  agent: analyst
+
+searcher_task:
+  description: >
+    The Solution Seeker is an AI-driven retrieval expert designed to locate all the files.
+  expected_output: >
+    Return the path of all the files from the tool output.
+  agent: searcher
+  context: [analyst_task]
+
+report_task:
+  description: >
+    To read all the given document
+    To understand the content of the document
+    To answer the {description}
+  expected_output: >
+    To succefully read and understand the document and give the right answer
+  agent: report
+  context: [searcher_task,analyst_task]

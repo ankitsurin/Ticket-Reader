@@ -1,0 +1,9 @@
+Issue : Computer Won't Turn On  
+Troubleshooting Steps:  
+1. Check if the power cable is properly plugged into the outlet and the computer.  
+2. Try a different power outlet or power strip to ensure the issue is not with the power source.  
+3. Inspect the power button for any damage or obstruction.  
+4. If using a desktop, ensure the power supply switch (if available) is turned on.  
+5. Remove and reinsert the battery (for laptops) or try a different power adapter.  
+6. Check for any unusual sounds or lights that may indicate a hardware issue.  
+7. If the issue persists, consult a professional technician.
